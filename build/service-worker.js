@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pages/roth-peng/decode-jzb/precache-manifest.dab674df56fe1d6b76f00c0cf0fa516b.js"
+  "/pages/roth-peng/decode-jzb/precache-manifest.f2ac3338cc19bb00f658ad5a051f676b.js"
 );
 
 self.addEventListener('message', (event) => {
